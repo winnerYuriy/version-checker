@@ -1,0 +1,19 @@
+{
+    "database": {
+        "name": "versions.db",
+        "backup_folder": "backups",
+        "auto_backup": true,
+        "backup_interval_days": 7
+    },
+    "checking": {
+        "auto_check_interval_minutes": 1440,
+        "retry_attempts": 3,
+        "timeout_seconds": 30,
+        "delay_between_checks": 2
+    },
+    "appearance": {
+        "theme": "dark",
+        "font_size": 10,
+        "show_notifications": true
+    }
+}
