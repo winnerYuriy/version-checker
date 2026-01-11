@@ -51,6 +51,7 @@ ENV/
 *.exe
 dist/
 build/
+output/
 
 # Config files (можна виключити, якщо містять секрети)
 # config.json
